@@ -7,26 +7,19 @@ body{
     font-weight: bold;
     font-size: 25px;
     color: #ebbac2;
-    border: 5px solid #ebbac2;
+    border: 2px solid #ebbac2;
 }
 
-.moda{
+
+
+h2 , h3{
+    text-align: center;
     font-family: serif;
     font-weight: bold;
+    font-size: 20px;
     color: #ebbac2;
 }
 
-h2{
-    font-family: serif;
-    font-weight: bold;
-    color: #ebbac2;
-}
-
-h3{
-    font-family: serif;
-    font-weight: bold;
-    color: #ebbac2;
-}
 
 .noticias{
     text-align: justify;
@@ -51,11 +44,16 @@ h3{
     font-family: sans-serif;
 }
 
+
 a{
     font-family: serif;
     font-weight: bold;
     color: #ebbac2;
     font: size 5px; ;
+}
+
+a:hover{
+    color: #cba9a9;
 }
 
 
