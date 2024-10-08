@@ -2,27 +2,41 @@ body{
     background: #5d2d3c;
 }
 
-h1{
-    font-family: sans-serif;
+.title{
+    font-family: serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #ebbac2;
+    border: 5px solid #ebbac2;
+}
+
+.moda{
+    font-family: serif;
     font-weight: bold;
     color: #ebbac2;
 }
 
 h2{
-    font-family: sans-serif;
+    font-family: serif;
     font-weight: bold;
     color: #ebbac2;
 }
 
 h3{
-    font-family: sans-serif;
+    font-family: serif;
     font-weight: bold;
     color: #ebbac2;
+}
+
+.noticias{
+    text-align: justify;
 }
 
 .paragrafo{
     text-align: justify;
     margin: 100px;
+    border-left: 70px;
+    border-right: 70px;
 }
 
 .imagem{
@@ -31,8 +45,14 @@ h3{
     justify-content: center;
 }
 
-a{
+.afropaty{
+    font: bold;
+    color: #ebbac2;
     font-family: sans-serif;
+}
+
+a{
+    font-family: serif;
     font-weight: bold;
     color: #ebbac2;
     font: size 5px; ;
@@ -41,6 +61,7 @@ a{
 
 p{
     font: bold;
+    color: #ebbac2;
     font-family: sans-serif;
 }
 
