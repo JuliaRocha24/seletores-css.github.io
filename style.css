@@ -1,0 +1,51 @@
+body{
+    background: #5d2d3c;
+}
+
+h1{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #ebbac2;
+}
+
+h2{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #ebbac2;
+}
+
+h3{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #ebbac2;
+}
+
+.paragrafo{
+    text-align: justify;
+    margin: 100px;
+}
+
+.imagem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #ebbac2;
+    font: size 5px; ;
+}
+
+
+p{
+    font: bold;
+    font-family: sans-serif;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
