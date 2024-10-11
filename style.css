@@ -53,7 +53,7 @@ a{
 }
 
 a:hover{
-    color: #cba9a9;
+    color: #ed0000;
 }
 
 
@@ -91,4 +91,28 @@ div{
 .link {
     color: blue;
     text-decoration: none;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
 }
