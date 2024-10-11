@@ -88,3 +88,7 @@ div{
     height: 300px;
     object-fit: cover; 
 }
+.link {
+    color: blue;
+    text-decoration: none;
+}
